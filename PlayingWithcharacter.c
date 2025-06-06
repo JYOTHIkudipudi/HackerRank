@@ -16,7 +16,7 @@ In order to take a line as input, you can use scanf("%[^\n]%*c", s); where  is d
 Note: The statement: scanf("%[^\n]%*c", s); will not work because the last statement will read a newline character, \n, from the previous line. This can be handled in a variety of ways. One way is to use scanf("\n"); before the last statement.
 
 Task
-You have to print the character, , in the first line. Then print  in next line. In the last line print the sentence, .
+You have to print the character , in the first line. Then print  in next line. In the last line print the sentence, .
 
 Input Format
 
