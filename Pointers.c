@@ -7,7 +7,7 @@ void update(int *a,int *b) {
       *a = sum;
       *b = diff;       
 } 
-
+ 
 int main() {
     int a, b;
     int *pa = &a, *pb = &b;
