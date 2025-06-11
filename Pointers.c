@@ -6,7 +6,7 @@ void update(int *a,int *b) {
       int  diff = abs(*a - *b);
       *a = sum;
       *b = diff;       
-}
+} 
 
 int main() {
     int a, b;
